@@ -1,2 +1,2 @@
-# Encapsulation
+# Inheritconcept
 OOPS Concept
